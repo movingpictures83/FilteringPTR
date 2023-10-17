@@ -1,0 +1,2 @@
+Prefix plugins/FilteringPTR/example/
+Plugin FilteringPTR inputfile parameters.txt outputfile .
